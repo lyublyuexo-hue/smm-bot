@@ -4,5 +4,5 @@ aiofiles>=23.2.1
 aiohttp>=3.9.5
 certifi>=2023.7.22
 magic-filter>=1.0.12
-pydantic>=2.8.0
+pydantic>=2.4.1,<2.8
 typing-extensions>=4.7.0
