@@ -2,7 +2,7 @@
 # НАСТРОЙТЕ ЭТИ ЗНАЧЕНИЯ
 # ==============================
 
-BOT_TOKEN = "8705462953:AAHPQWQHISpxf2rGzHETid2Yvs6HqTQvIxI"   # Токен от @BotFather
+BOT_TOKEN = "1414993004:AAFKHl5N_FUbLdPa_zM71BESxFUwmsEspQk"   # Токен от @BotFather
 
 ADMIN_ID = 1074194843                  # Ваш Telegram ID (узнать можно у @userinfobot)
 
